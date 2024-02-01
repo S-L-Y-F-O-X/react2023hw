@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81cef4c-6f11-4e11-82aa-d6d3814d74d1" name="Changes" comment="master">
-      <change afterPath="$PROJECT_DIR$/src/components/Simpsons/Simpson.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Simpsons/Simpsons.js" afterDir="false" />
+    <list default="true" id="b81cef4c-6f11-4e11-82aa-d6d3814d74d1" name="Changes" comment="Hw 1.1 Simpsons">
+      <change afterPath="$PROJECT_DIR$/src/components/RickAndMorty/Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RickAndMorty/Characters.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Simpsons/Simpson.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Simpsons/Simpson.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706779805331</updated>
-      <workItem from="1706779807060" duration="2059000" />
+      <workItem from="1706779807060" duration="3719000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <option name="closed" value="true" />
@@ -77,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706780638504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hw 1.1 Simpsons">
+      <option name="closed" value="true" />
+      <created>1706781975734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706781975734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master" />
-    <option name="LAST_COMMIT_MESSAGE" value="master" />
+    <MESSAGE value="Hw 1.1 Simpsons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hw 1.1 Simpsons" />
   </component>
 </project>

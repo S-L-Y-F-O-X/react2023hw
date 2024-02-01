@@ -1,10 +1,12 @@
-const Simpson = ({simpson}) => {
-    const {name, age, gender, image} = simpson;
+const Character = ({character}) => {
+    const {name,status,species,gender,image} = character;
+
     return (
         <div>
             <hr/>
             <div>Name: {name}</div>
-            <div>Age: {age}</div>
+            <div>Status: {status}</div>
+            <div>Species: {species}</div>
             <div>Gender: {gender}</div>
             <img src={image} alt={name}/>
             <hr/>
@@ -12,4 +14,4 @@ const Simpson = ({simpson}) => {
     );
 };
 
-export {Simpson};
+export {Character};
