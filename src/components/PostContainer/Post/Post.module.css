@@ -1,0 +1,18 @@
+.Post{
+    margin: 10px;
+    padding: 7px;
+    width: calc(20% - 34px);
+    box-shadow: 0 0 15px #7e7e7e inset;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    margin-top: auto;
+    margin-bottom: 5px;
+}
+.Post>div {
+    margin: 5px;
+}

@@ -1,0 +1,17 @@
+.Details{
+    position: sticky;
+    top: 0;
+    background: white;
+    opacity: 0.95;
+}
+.Posts{
+    display: flex;
+    flex-flow: row wrap;
+}
+h1 {
+    margin-bottom: 0;
+    font-size: 300%;
+    display: flex;
+    justify-content: center;
+
+}

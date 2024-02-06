@@ -1,0 +1,39 @@
+.PostDetails {
+    padding: 10px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 15px #6e6e6e,
+                0 0 30px inset #fffdfd;
+    font-size: 130%;
+    background: #bdbdbd;
+}.PostDetails {
+     padding: 10px;
+     width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+     box-shadow: 0 0 15px #6e6e6e,
+     0 0 30px inset #fffdfd;
+     font-size: 130%;
+     background: #bdbdbd;
+ }
+h2 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.PostDetails button {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    width: 70px;
+    justify-content: center;
+    box-shadow: 0 0 30px #151515,
+    0 0 15px inset #696767;
+}
+h2 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}

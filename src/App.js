@@ -1,7 +1,11 @@
+import {Posts} from "./components/PostContainer/Posts/Posts";
+import {Launches} from "./components/SpaseXContainer/Launches/Launches";
+
 const App = () => {
     return (
         <div>
-            App
+            <Posts/>
+            <Launches/>
         </div>
     );
 };
