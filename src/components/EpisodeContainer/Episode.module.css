@@ -1,0 +1,12 @@
+.Episode{
+    border: 1px solid;
+    width: calc(25% - 12px);
+    padding: 5px;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+.Episode:hover{
+    cursor: pointer;
+    background-color: #525252;
+    color: #e7e7e7;
+}
