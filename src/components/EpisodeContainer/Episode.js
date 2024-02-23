@@ -1,5 +1,6 @@
-import css from './Episode.module.css'
 import {useNavigate} from "react-router-dom";
+
+import css from './Episode.module.css'
 import {useNameEpisode} from "../../hooks";
 
 const Episode = ({episode}) => {

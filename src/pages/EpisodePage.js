@@ -1,6 +1,7 @@
+import {useEffect} from "react";
+
 import {Episodes} from "../components";
 import {useNameEpisode} from "../hooks";
-import {useEffect} from "react";
 
 const EpisodePage = () => {
     const {setNameEpisode} = useNameEpisode();

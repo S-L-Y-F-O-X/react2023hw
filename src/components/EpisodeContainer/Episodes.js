@@ -1,9 +1,9 @@
 import {useEffect, useState} from "react";
+import {useSearchParams} from "react-router-dom";
 
 import css from './Episodes.module.css'
 import {episodeService} from "../../services";
 import {Episode} from "./Episode";
-import {useSearchParams} from "react-router-dom";
 const Episodes = () => {
     const [episode, setEpisode] = useState({prev: null, next: null, results: []})
     const [query, setQuery] = useSearchParams({page:'1'});

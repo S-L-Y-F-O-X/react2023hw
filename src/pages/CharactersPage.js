@@ -1,10 +1,9 @@
-import {Characters} from "../components";
 import {useNavigate} from "react-router-dom";
-import {useNameEpisode} from "../hooks";
+
+import {Characters} from "../components";
 
 const CharactersPage = () => {
     const navigate = useNavigate();
-    const {setNameEpisode} = useNameEpisode();
 
     const back = ()=>
 
